@@ -1,0 +1,237 @@
+{
+	"groups": [
+
+		{
+			"group_name": "Director",
+			"members": [
+				{
+					"name": "Yaoyao Fiona Zhao",
+					"type": "Associate Professor, Associate Editor of the Journal of Mechanical Engineering",
+					"description": "Digitization changes traditional thinking and manufacturing technologies. Manufacturing in the 21st century will become more intelligent, flexible, automated, and sustainable. I seek to advance manufacturing industry with new design theories, manufacturing information technologies, and simulation and optimization infrastructures to reach smarter and more sustainable manufacturing.",
+					"email": "yaoyao.zhao@mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/fiona-zhao-4541a912/"
+				}
+			]
+		},
+		{
+			"group_name": "Doctorate Students",
+			"members": [
+				{
+					"name": "Sheng Yang",
+					"type": "PhD Graduate",
+					"description": "Part consolidation for AM to study the feasibility of assembly reduction for lightweighting and economical purposes. Methods and Rules for Supporting Part Consolidation AM Design Potentials.",
+					"email": "sheng.yang@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/sheng-yang-30b906124/"
+				},
+				{
+					"name": "Zhibo Luo",
+					"description": "Development of a simulation tool to model the selective laser melting process in part level. A new and efficient simulation scheme is designed based on open source finite element library, which is able to adaptively refine and coarsen the mesh and solve the finite element equations with multiple processors in a parallel way.",
+					"email": "zhibo.luo@mail.mcgill.ca",
+					"linkedin": "https://ca.linkedin.com/in/zhibo-luo-9051b69b/en"
+				},
+				{
+					"name": "Guoying Dong",
+					"description": "Simulation modeling of lattice structures fabricated by Additive Manufacturing",
+					"email": "guoying.dong@mail.mcgill.ca",
+					"linkedin": "https://ca.linkedin.com/in/guoying-dong-b10499120"
+				},
+				{
+					"name": "Jinghao Li",
+					"description": "Microstructure Evolution and Simulation of Ti6Al4V Alloy in Additive Manufacturing",
+					"email": "jinghao.li@mail.mcgill.ca"
+				},
+				{
+					"name": "Xiaoyi Guan",
+					"description": "Thermalmechanical modeling of direct powder deposition additive manufacturing process",
+					"email": ""
+				},
+				{
+					"name": "Ying Zhang",
+					"description": "",
+					"email": ""
+				},
+				{
+					"name": "Nikita Letov",
+					"description": "",
+					"email": ""
+				}
+			]
+		},
+		{
+			"group_name": "Masters Students",
+			"members": [
+				{
+					"name": "Thomas Page",
+					"description": "Feature-based design for part consolidation enabled by additive manufacturing technology",
+					"email": "thomas.page@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/thomasdanielpage/"
+				},
+				{
+					"name": "Manuel Sage",
+					"description": "Application of machine learning in optimizing shop floor data collection and analysis",
+					"email": "manuel.sage@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/manuel-sage-146b83135/edit/birthday/"
+				},
+				{
+					"name": "Zhenyang Gao",
+					"description": "Design and simulation of conformal cooling channel for injection molding via additive manufacturing technique",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Wenbo Min",
+					"description": "Life cycle assessment for the sustainability and environmental impact of additive manufacturing",
+					"email": "wenbo.min@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/wenbo-min-398255171/"
+				}
+			]
+		},
+		{
+			"group_name": "Bachelors Students",
+			"members": [
+
+			]
+		},
+		{
+			"group_name": "Alumni",
+			"members": [
+				{
+					"name": "Yunlong Tang",
+					"type": "PhD Graduate",
+					"description": "Topology and Functionality Optimization for Additive Manufacturing",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Maryam Tavafoghi",
+					"type": "Post-doctorate",
+					"description": "Bio-compatible ceramic characterization for 3D printing",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Raine Yuhaowei Zhou",
+					"type": "Master's Graduate",
+					"description": "Product lifecycle and traceability modeling of binder-jetting additive manufacturing process",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/yuhaoweizhou/"
+				},
+				{
+					"name": "Xin Xu",
+					"type": "Master's Graduate",
+					"description": "Process Modeling and Sustainability Analysis of Binder-jetting Additive Manufacturing Processes",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Han Chen",
+					"type": "Master's Graduate",
+					"description": "Modeling and characterization of additive manufacturing processes",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/han-chen-aa113771/"
+				},
+				{
+					"name": "Aidan Kurtz",
+					"type": "Bachelor's Graduate",
+					"description": "Residue stress analysis of powder deposition process",
+					"email": "",
+					"linkedin": "https://ca.linkedin.com/pub/aidan-kurtz/99/57/4a6"
+				},
+				{
+					"name": "Jordan Cave",
+					"type": "Master's Graduate",
+					"description": "Process planning and optimization of wire deposition additive manufacturing process",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Thomas Hitchcox",
+					"type": "Master's Graduate",
+					"description": "Vision based inspection process optimization to detect aerospace component defects",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/thomas-hitchcox-7934b863/"
+				},
+				{
+					"name": "Julien Finley",
+					"type": "Master's Graduate",
+					"description": "post processing technique for Ti64 lattice fabricated via SLM process",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/julien-finley-00b61465/"
+				},
+				{
+					"name": "Fan Yang",
+					"type": "Master's Graduate",
+					"description": "Design allowance for binder-jetting additive manufacturing process",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Mohamed Aslam",
+					"type": "Master's Graduate",
+					"description": "Environmental impact on the design optimization for AM",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Tanushree Talekar",
+					"type": "Master's Graduate",
+					"description": "Feature based modeling for the sustainability analysis of additively manufactured products",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Viet Thi Nguyen",
+					"type": "Master's Graduate",
+					"description": "3D design and printing of vocal scaffold for cell culturing",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Yujia Wang",
+					"type": "Master's Graduate",
+					"description": "Investigation of printing orientation on product mechanical properties via binder-jetting additive manufacturing process",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Gagandeep Singh",
+					"type": "Master's Graduate",
+					"description": "Modeling & Simulation of Aerospace Product Development",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Mohammed Taleb Ameri",
+					"type": "Master's Graduate",
+					"description": "Sustainability assessment of milling manufacturing process",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Patrick El Choueifaty",
+					"type": "Honours Graduate",
+					"description": "Sustainable End-of-Life Management of Consumer Goods",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/patrickelchoueifaty/"
+				},
+				{
+					"name": "Kieran Mak",
+					"type": "Honours Graduate",
+					"description": "Topology Optimization for Additively Manufactured Products",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Sheelaz Merza",
+					"type": "Honours Graduate",
+					"description": "Experimentation and characterization of lattice structure for bone tissue growth",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/sheelaz-merza-7a671570/detail/photo/"
+				}
+
+			]
+		}
+
+	]
+
+}

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>ADML Publications</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+	<link href="themes/css/base.css" rel="stylesheet" type="text/css">
+
+
+</head>
+
+
+<body>
+
+	<div id="content">
+		<!--
+		<div class="content-section">
+			<h1>Journals</h1>
+			<div class="journals">
+
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=21155" >Journal of Engineering Materials and Technology</a><!- - 15288889 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=27656" >International Journal of Production Research</a><!- - 1366588X - ->
+				<a href=https://www.scopus.com/source/sourceInfo.url?sourceId=18145" >CAD Computer Aided Design</a><!- - 00104485 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=19167" >Journal of Cleaner Production</a><!- - 09596526 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=21100349533" >Additive Manufacturing</a><!- - 22148604 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=50170" >International Journal of Mechanical Sciences</a><!- - 00207403 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=21100792109" >Procedia Manufacturing</a><!- - 23519789 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=20979" >Journal of Mechanical Design</a><!- - 10500472 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=18661" >Structural and Multidisciplinary Optimization</a><!- - 16151488 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=20428" >International Journal of Advanced Manufacturing Technology</a><!- - 14333015 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=18080" >Robotics and Computer-Integrated Manufacturing</a><!- - 07365845 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=4400151406" >International Journal of Operational Research</a><!- - 17457653 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=20966" >Journal of Manufacturing Science and Engineering</a><!- - 15288935 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=23640" >Advanced Engineering Informatics</a><!- - 14740346 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=21522" >Ceramics International</a><!- - 02728842 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=21691" >Rapid Prototyping Journal</a><!- - 13552546 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=17815" >Materials Science and Technology (United Kingdom)</a><!- - 17432847 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=27677" >Journal of Manufacturing Processes</a><!- - 15266125 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=20428" >International Journal of Advanced Manufacturing Technology</a><!- - 02683768 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=19080" >Computers in Industry</a><!- - 01663615 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=17340" >IEEE Transactions on Automation Science and Engineering</a><!- - 15455955 - ->
+				<a href="https://www.scopus.com/source/sourceInfo.url?sourceId=21100220382" >International Journal of Computer Aided Engineering and Technology</a><!- - 17572657 - ->
+
+			</div>
+
+		</div>
+
+		<div class="content-section">
+			<h1>Conferences</h1>
+			<div class="journals">
+
+				<a >Conference on Innovative Design and Manufacturing</a>
+				<a >ASME Design Engineering Technical Conference (DETC)</a>
+				<a >ASME Biennial Conference on Engineering Systems Design and Analysis</a>
+				<a >ASME Mechanical Engineering Congress and Exposition (IMECE)</a>
+				<a >ASME Design Engineering Technical Conferences (IDETC)</a>
+				<a >ASME Manufacturing Science and Engineering Conference (MSEC)</a>
+				<a >CIRP Conference on Life Cycle Engineering</a>
+				<a >IFAC World Congress</a>
+				<a >Procedia CIRP</a>
+
+			</div>
+
+		</div>
+
+ -->
+
+		<div class="content-section">
+			<h1>Recent Publications</h1>
+			<a class="scopus-image" href="http://www.scopus.com"><img width="200px" src="themes/img/misc/PoweredbyScopus.png"></a>
+
+			<div id="publications">
+
+				<div id="journals" class="pub-section">
+					<h2>Journals</h2>
+					<div class="results"></div>
+					<div class="loader"></div>
+					<div class="loadmore">load more</div>
+				</div>
+
+				<div id="conferences" class="pub-section">
+					<h2>Conference Papers</h2>
+					<div class="results"></div>
+					<div class="loader"></div>
+					<div class="loadmore">load more</div>
+				</div>
+
+				<div id="books" class="pub-section">
+					<h2>Books</h2>
+					<div class="results"></div>
+					<div class="loader"></div>
+					<div class="loadmore">load more</div>
+				</div>
+
+			</div>
+
+		</div>
+
+
+
+	</div>
+
+
+</body>
+
+
+<footer>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	<script src="themes/js/default.js"></script>
+	<script type="text/javascript">ADML.initPage('publications')</script>
+
+	<script type="text/javascript">
+
+		const loadMorePapers = function(scopusURL, e) {
+
+
+			var id = ''
+
+			if (e.target) {
+				id = e.target.parentElement.id
+			} else {
+				id = e
+			}
+
+			$('#' + id + ' .loader').show()
+			$('#' + id + ' .loadmore').hide()
+
+			$.ajax({
+				url: scopusURL,
+				headers: {
+					"X-ELS-APIKey": "ea7d4c29667ffea0ce17cc5cb800e8a0"
+				},
+				success: function(response) {
+
+					var publicationsDiv = ''
+
+					if (response['search-results']['opensearch:totalResults'] > 0) {
+
+						response['search-results']['entry'].map( (entry) => {
+
+							var src = ''
+
+							if (entry['prism:issn'] || entry['prism:eIssn']) {
+								src = 'https://api.elsevier.com/content/serial/title/issn/' + (entry['prism:issn'] || entry['prism:eIssn']) + '?view=coverimage&httpAccept=image/gif&apiKey=ea7d4c29667ffea0ce17cc5cb800e8a0'
+							} else if (entry['prism:isbn']) {
+								src = 'https://api.elsevier.com/content/nonserial/title/isbn/' + (entry['prism:isbn']) + '?view=coverimage&httpAccept=image/gif&apiKey=ea7d4c29667ffea0ce17cc5cb800e8a0'
+							}
+
+							publicationsDiv +='<a href="' + entry['link'][2]['@href'] + '" class="publication">'
+			+					'<div><img onload="this.style.display=\'block\'" src="' + src + '"></div>'
+			+					'<div>'
+			+						'<div class="publication-title">'
+			+							entry['dc:title']
+			+						'</div>'
+			+						'<div class="publication-name">'
+			+							entry['prism:publicationName']
+			+						'</div>'
+			+						'<div class="publication-date">'
+			+							entry['prism:coverDisplayDate']
+			+						'</div>'
+			+					'</div>'
+			+				'</a>'
+
+						})
+
+						$('#' + id + ' .results').append(publicationsDiv)
+						$('#' + id + ' .loader').hide()
+
+						var next_page = response['search-results']['link'].find( x => x['@ref'] == 'next' )
+						next_page && $('#' + id + ' .loadmore').show().off().click( function(event) {loadMorePapers(next_page['@href'], event)} );
+
+					} else {
+						$('#' + id).hide()
+					}
+				}
+			});
+
+		}
+
+		loadMorePapers("https://api.elsevier.com/content/search/scopus?start=0&count=10&query=au-id(57204081987)%20AND%20srctype(j)&sort=coverDate", 'journals')
+		loadMorePapers("https://api.elsevier.com/content/search/scopus?start=0&count=10&query=au-id(57204081987)%20AND%20srctype(p)&sort=coverDate", 'conferences')
+		loadMorePapers("https://api.elsevier.com/content/search/scopus?start=0&count=10&query=au-id(57204081987)%20AND%20(srctype(b)%20OR%20srctype(k))&sort=coverDate", 'books')
+
+
+	</script>
+
+</footer>
+
+
+</html>
+
