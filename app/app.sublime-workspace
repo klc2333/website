@@ -1,0 +1,2788 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clas",
+				"className〔variable〕"
+			],
+			[
+				"ded",
+				"deductibles"
+			],
+			[
+				"practiti",
+				"practitioner_id"
+			],
+			[
+				"practi",
+				"practitioner_id"
+			],
+			[
+				"eligib",
+				"eligibility"
+			],
+			[
+				"raw",
+				"raw_response"
+			],
+			[
+				"pract",
+				"practitioner_id"
+			],
+			[
+				"deduc",
+				"deductibleItems〔variable〕"
+			],
+			[
+				"dedu",
+				"deductibleItems〔variable〕"
+			],
+			[
+				"clinic",
+				"clinic_id"
+			],
+			[
+				"patient",
+				"patient_id"
+			],
+			[
+				"teeth",
+				"teeth_selected"
+			],
+			[
+				"outstanding",
+				"outstanding_transactions"
+			],
+			[
+				"eli",
+				"eligibility"
+			],
+			[
+				"prac",
+				"practitioner_id"
+			],
+			[
+				"lDo",
+				"lDocuments"
+			],
+			[
+				"sS",
+				"sServer"
+			],
+			[
+				"EDI",
+				"EDISearchDoc"
+			],
+			[
+				"Pre",
+				"PredeRequestDoc"
+			],
+			[
+				"itp_",
+				"itp_id"
+			],
+			[
+				"asso",
+				"associated"
+			],
+			[
+				"new",
+				"new_group〔variable〕"
+			],
+			[
+				"itp",
+				"itp_invoice_link"
+			],
+			[
+				"bounds_",
+				"bounds_height〔argument〕"
+			],
+			[
+				"curre",
+				"curr_height〔argument〕"
+			],
+			[
+				"ass",
+				"associated"
+			],
+			[
+				"assoca",
+				"associated_object"
+			],
+			[
+				"associ",
+				"associated_object"
+			],
+			[
+				"invoice",
+				"invoice_id"
+			],
+			[
+				"show",
+				"show_prices"
+			],
+			[
+				"filter",
+				"filterTerm〔variable〕"
+			],
+			[
+				"solid-",
+				"solid-bottom-black"
+			],
+			[
+				"lP",
+				"lPolicy〔variable〕"
+			],
+			[
+				"Mas",
+				"MasterPolicies"
+			],
+			[
+				"insuran",
+				"insurance_paid"
+			],
+			[
+				"page-brea",
+				"page-break-after\tproperty"
+			],
+			[
+				"ind",
+				"individual"
+			],
+			[
+				"deductibe",
+				"deductibles_paid"
+			],
+			[
+				"deductibl",
+				"deductibles_paid"
+			],
+			[
+				"poli",
+				"policy_master"
+			],
+			[
+				"policy",
+				"policy_individual"
+			],
+			[
+				"lPol",
+				"lPolicies〔variable〕"
+			],
+			[
+				"has",
+				"hasError〔function〕"
+			],
+			[
+				"oRe",
+				"oResult〔variable〕"
+			],
+			[
+				"coverage",
+				"coverage_template_id"
+			],
+			[
+				"covera",
+				"coverage_template_id"
+			],
+			[
+				"polic",
+				"policy_individual"
+			],
+			[
+				"master",
+				"master_policy"
+			],
+			[
+				"insura",
+				"insurance_paid"
+			],
+			[
+				"lMas",
+				"lMasterPolicies〔variable〕"
+			],
+			[
+				"lMast",
+				"lMaster〔variable〕"
+			],
+			[
+				"lMaster",
+				"lMasterPolicies〔variable〕"
+			],
+			[
+				"Covera",
+				"CoverageTemplate〔module〕"
+			],
+			[
+				"merge",
+				"merge_two_dicts"
+			],
+			[
+				"picture",
+				"picture-series-item"
+			],
+			[
+				"table",
+				"table\tTag"
+			],
+			[
+				"sty",
+				"style=〔attribute〕"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"componen",
+				"componentDidMount"
+			],
+			[
+				"Discoun",
+				"DiscountComponent〔argument〕"
+			],
+			[
+				"active",
+				"activeInvoice"
+			],
+			[
+				"cent",
+				"centerImage"
+			],
+			[
+				"max",
+				"maxWidth〔variable〕"
+			],
+			[
+				"origin",
+				"originFinder"
+			],
+			[
+				"nex",
+				"nextState"
+			],
+			[
+				"Image",
+				"ImageCanvas〔variable〕"
+			],
+			[
+				"whate",
+				"whatevere〔function〕"
+			],
+			[
+				"canva",
+				"canvasImage"
+			],
+			[
+				"canVa",
+				"canvasImage"
+			],
+			[
+				"rotate",
+				"rotateCanvas"
+			],
+			[
+				"caman",
+				"caman_img"
+			],
+			[
+				"image_",
+				"image_urls"
+			],
+			[
+				"toggle",
+				"toggleMoreOptions"
+			],
+			[
+				"to",
+				"to_do_list2"
+			],
+			[
+				"databa",
+				"database_connection"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2286,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/react/form.jsx",
+			"settings":
+			{
+				"buffer_size": 23372,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 6 files for \"fa-\"\n\n/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/app/js/react/form.jsx:\n  171                                      <div className=\"title\">Internal Channels</div>\n  172                                      <div className=\"data-wrapper\">\n  173:                                         <button name=\"internal_channels\" className={\"fas fa-2x fa-check\" + (this.state.form.internal_channels === 1 ? \" green\" : \"\")} value=\"1\" onClick={this.handleFormClick}></button>\n  174:                                         <button name=\"internal_channels\" className={\"fas fa-2x fa-times\" + (this.state.form.internal_channels === 0 ? \" red\" : \"\")} value=\"0\" onClick={this.handleFormClick}></button>\n  175                                      </div>\n  176                                  </div>\n  ...\n  179                                      <div className=\"title\">Surface Markings</div>\n  180                                      <div className=\"data-wrapper\">\n  181:                                         <button name=\"surface_markings\" className={\"fas fa-2x fa-check\" + (this.state.form.surface_markings === 1 ? \" green\" : \"\")} value=\"1\" onClick={this.handleFormClick}></button>\n  182:                                         <button name=\"surface_markings\" className={\"fas fa-2x fa-times\" + (this.state.form.surface_markings === 0 ? \" red\" : \"\")} value=\"0\" onClick={this.handleFormClick}></button>\n  183                                      </div>\n  184                                  </div>\n  ...\n  187                                      <div className=\"title\">Similar Parts</div>\n  188                                      <div className=\"data-wrapper\">\n  189:                                         <button name=\"similar_parts\" className={\"fas fa-2x fa-check\" + (this.state.form.similar_parts === 1 ? \" green\" : \"\")} value=\"1\" onClick={this.handleFormClick}></button>\n  190:                                         <button name=\"similar_parts\" className={\"fas fa-2x fa-times\" + (this.state.form.similar_parts === 0 ? \" red\" : \"\")} value=\"0\" onClick={this.handleFormClick}></button>\n  191                                      </div>\n  192                                  </div>\n  ...\n  195                                      <div className=\"title\">Size Variation</div>\n  196                                      <div className=\"data-wrapper\">\n  197:                                         <button name=\"size_variation\" className={\"fas fa-2x fa-check\" + (this.state.form.size_variation === 1 ? \" green\" : \"\")} value=\"1\" onClick={this.handleFormClick}></button>\n  198:                                         <button name=\"size_variation\" className={\"fas fa-2x fa-times\" + (this.state.form.size_variation === 0 ? \" red\" : \"\")} value=\"0\" onClick={this.handleFormClick}></button>\n  199                                      </div>\n  200                                  </div>\n  ...\n  203                                      <div className=\"title\">Custom Fit</div>\n  204                                      <div className=\"data-wrapper\">\n  205:                                         <button name=\"human_body\" className={\"fas fa-2x fa-check\" + (this.state.form.human_body === 1 ? \" green\" : \"\")} value=\"1\" onClick={this.handleFormClick}></button>\n  206:                                         <button name=\"human_body\" className={\"fas fa-2x fa-times\" + (this.state.form.human_body === 0 ? \" red\" : \"\")} value=\"0\" onClick={this.handleFormClick}></button>\n  207                                      </div>\n  208                                  </div>\n  ...\n  270  \n  271                          <div className=\"section\">\n  272:                             {this.state.analysis.decision ? <span className=\"decision-icon green fas fa-lg fa-check\"></span> : <span className=\"decision-icon red fas fa-lg fa-times\"></span>}\n  273                              <h2>Decision</h2>\n  274                              {this.state.analysis.decision ? \"This part should be considered for Additive Manufacturing\" : \"This part should not be considered for Additive Manufacturing\"}\n  ...\n  299  \n  300  \n  301:                         <button className=\"element submission-button fas fa-arrow-left\" onClick={this.toggleView}></button>\n  302  \n  303  \n  ...\n  308                  { (this.state.infoKey && infoSection[this.state.infoKey]) &&\n  309                      <div id=\"InfoSection\">\n  310:                         <div className=\"fas fa-lg fa-times\" onClick={this.closeInfoSection}></div>\n  311                          <div className=\"info-inner\">\n  312                              <div className=\"info-image\"><img className=\"floating\" onLoad={(e) => e.target.style.display='block'} src={\"img/amk/\" + this.state.infoKey + \".jpg\"} /></div>\n\n27 matches in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 4810,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "js/extensions/MeshData.js",
+			"settings":
+			{
+				"buffer_size": 7563,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/react/viewer.jsx",
+			"settings":
+			{
+				"buffer_size": 16921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/react/main.jsx",
+			"settings":
+			{
+				"buffer_size": 1112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.custom.css",
+			"settings":
+			{
+				"buffer_size": 9822,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package controll",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/app",
+		"/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/app/js",
+		"/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/app/js/extensions",
+		"/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/app/js/react"
+	],
+	"file_history":
+	[
+		"/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/app/img/caret-up-solid.svg",
+		"/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/app/js/viewer.custom.js",
+		"/Users/thomas/dvtl2-rest/services/shorten/__init__.py",
+		"/Users/thomas/dvtl2-rest/services/odo/Structures.py",
+		"/Users/thomas/dvtl2-rest/services/odo/__main__.py",
+		"/Users/thomas/dvtl2-rest/services/xray/__init__.py",
+		"/Users/thomas/dvtl2-api/services/edi/__main__.py",
+		"/Users/thomas/dvtl2-api/modules/Suds_.py",
+		"/Users/thomas/dvtl2-api/development/setup_ubuntu14.04.sh",
+		"/Users/thomas/dvtl2-api/requirements.txt",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/data/errors.json",
+		"/Users/thomas/dvtl2-rest/shared/Dictionaries.py",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_19/__init__.py",
+		"/Users/thomas/dvtl2-rest/README.md",
+		"/Users/thomas/dvtl2-api/crons/schedule.py",
+		"/Users/thomas/dvtl2-api/crons/crontab",
+		"/Users/thomas/dvtl2-api/crons/README",
+		"/Users/thomas/dvtl2-rest/services/insurance/Structures.py",
+		"/Users/thomas/dvtl2-api/services/queue/__init__.py",
+		"/Users/thomas/dvtl2-rest/shared/FormatOC/JSON_.py",
+		"/Users/thomas/dvtl2-rest/shared/FormatOC/__init__.py",
+		"/Users/thomas/dvtl2-rest/dvtl2-lib/definitions/financials/discount.json",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/financials/invoice_item.json",
+		"/Users/thomas/dvtl2-rest/dvtl2-lib/definitions/insurance/policy_master.json",
+		"/Users/thomas/dvtl2-rest/services/insurance/__init__.py",
+		"/Users/thomas/dvtl2-api/services/edi/__init__.py",
+		"/Users/thomas/dvtl2-api/services/cpp/__init__.py",
+		"/Users/thomas/dvtl2-api/daemons/cdanet.py",
+		"/Users/thomas/dvtl2-api/services/edi/Structure.py",
+		"/Users/thomas/dvtl2-rest/dvtl2-lib/definitions/financials/invoice_item.json",
+		"/Users/thomas/dvtl2-rest/shared/JSON.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/itp/itp.json",
+		"/Users/thomas/dvtl2-rest/dvtl2-lib/definitions/itp/itp.json",
+		"/Users/thomas/dvtl2-rest/services/feeGuides/__init__.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/financials/invoice.json",
+		"/Users/thomas/dvtl2-api/config.json",
+		"/Users/thomas/dvtl2-api/services/edi/Apex.py",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_19/__main__.py",
+		"/Users/thomas/dvtl2-rest/services/insurance/__main__.py",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_17/form.py",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_19/eligibility_timestamp.py",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_19/invoice_item_desc.py",
+		"/Users/thomas/dvtl2-rest/services/chat/__init__.py",
+		"/Users/thomas/dvtl2-api/services/insurance/__init__.py",
+		"/Users/thomas/dvtl2-rest/shared/Services.py",
+		"/Users/thomas/Downloads/client.ovpn",
+		"/Volumes/Untitled/data/ssh/vpn2-cnasr.ovpn",
+		"/Users/thomas/dvtl2-api/services/edi/CDAnet.py",
+		"/Users/thomas/dvtl2-rest/shared/Sync.py",
+		"/Users/thomas/dvtl2-rest/services/financials/__init__.py",
+		"/Users/thomas/dvtl2-api/services/schedule/Structure.py",
+		"/Users/thomas/dvtl2-api/services/schedule/__init__.py",
+		"/Users/thomas/dvtl2-api/modules/DataPoint.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/insurance/policy_master.json",
+		"/Users/thomas/dvtl2-api/services/schedule/__main__.py",
+		"/Users/thomas/dvtl2-api/modules/SQL_MySQL.py",
+		"/Users/thomas/dvtl2-rest/shared/SQL.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/schedule/appointment.json",
+		"/Users/thomas/dvtl2-api/services/email/__init__.py",
+		"/Users/thomas/dvtl2-rest/services/form/__init__.py",
+		"/Users/thomas/dvtl2-rest/shared/Suds.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/insurance/coverage_template.json",
+		"/Users/thomas/dvtl2-api/services/patientList/__init__.py",
+		"/Users/thomas/dvtl2-api/crons/statistics.py",
+		"/Users/thomas/dvtl2-api/modules/ApiSession.py",
+		"/Users/thomas/dvtl2-rest/services/sms_chat/__init__.py",
+		"/Users/thomas/dvtl2-api/services/sms/__init__.py",
+		"/Users/thomas/dvtl2-api/services/group/__init__.py",
+		"/Users/thomas/dvtl2-api/daemons/queueue.py",
+		"/Users/thomas/dvtl2-api/modules/Suds.py",
+		"/Users/thomas/dvtl2-rest/crons/crontab",
+		"/Users/thomas/dvtl2-api/crons/__init__.py",
+		"/Users/thomas/dvtl2-api/misc/apex_client_methods.txt",
+		"/Users/thomas/dvtl2-api/modules/Permissions/__init__.py",
+		"/Users/thomas/dvtl2-rest/crons/shorten.py",
+		"/Users/thomas/dvtl2-rest/tools/apex/claims/status.py",
+		"/Users/thomas/dvtl2-api/modules/Sync.py",
+		"/Users/thomas/dvtl2-rest/dvtl2-lib/definitions/edi/eligibility.json",
+		"/Users/thomas/dvtl2-rest/tools/apex/claims/documents.py",
+		"/Users/thomas/dvtl2-rest/tools/apex/methods.py",
+		"/Users/thomas/dvtl2-rest/tools/apex/__init__.py",
+		"/Users/thomas/dvtl2-rest/tools/apex/claims/__init__.py",
+		"/Users/thomas/dvtl2-api/misc/eligibility.json",
+		"/Users/thomas/dvtl2-rest/shared/Storage.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/code/javascript/format-oc.js",
+		"/Users/thomas/dvtl2-api/install/devops/etc/supervisor/conf.d/cdanet_daemon.conf",
+		"/Users/thomas/dvtl2-api/modules/Api.py",
+		"/Users/thomas/dvtl2-api/modules/Resize.py",
+		"/Users/thomas/dvtl2-rest/shared/Photo.py",
+		"/Users/thomas/dvtl2-api/services/itp/templates/quote.html",
+		"/Users/thomas/dvtl2-web/development/less/itp_summary.less",
+		"/Users/thomas/dvtl2-api/services/counters/__init__.py",
+		"/Users/thomas/dvtl2-rest/services/support/__init__.py",
+		"/Users/thomas/dvtl2-api/config.dvtl2-rest-thomas.json",
+		"/Users/thomas/dvtl2-rest/config.json",
+		"/Users/thomas/dvtl2-api/services/itp/__init__.py",
+		"/Users/thomas/dvtl2-rest/config.dvtl2-rest-thomas.json",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_17/itp_misc.py",
+		"/Users/thomas/dvtl2-api/flaskservices/adaclaims/adaclaims.py",
+		"/Users/thomas/dvtl2-api/modules/X12Writer.py",
+		"/Users/thomas/dvtl2-rest/services/media/Structures.py",
+		"/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/Year 1 - Semester 1/Applied Machine Learning/Projects/Project 1/apple_1.2 2.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/cpp/patient_details.json",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/cpp/patient.json",
+		"/Users/thomas/dvtl2-rest/services/financials/Structures.py",
+		"/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/Year 1 - Semester 1/Applied Machine Learning/Projects/Project 1/apple_support_dialogue_curator.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/data/itp/itp_base_en.json",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/data/itp/itp_base_en_us.json",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_17/sms_chat.py",
+		"/Users/thomas/dvtl2-rest/services/financials/__main__.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/financials/discount.json",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_16/__init__.py",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_16/financials.py",
+		"/Users/thomas/dvtl2-rest/upgrade/vasghar_rethink/sms_chat.py",
+		"/Users/thomas/dvtl2-api/auth_group_cpp.py",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_16_1/financials.py",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_16/login_whatsnew.py",
+		"/Users/thomas/dvtl2-rest/install/install.sh",
+		"/Users/thomas/dvtl2-rest/upgrade/v2_16_1/__init__.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/data/itp/itp_base.json",
+		"/Users/thomas/dvtl2-rest/install/devops/rest/etc/supervisor/conf.d/financials.conf",
+		"/Users/thomas/dvtl2-rest/shared/Config.py",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/cpp/patient_to_practitioner.json",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/cpp/login_patient.json",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/edi/outstanding_transactions.json",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/edi/claim_request.json",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/edi/eligibility.json",
+		"/Users/thomas/dvtl2-api/dvtl2-lib/definitions/edi/claim_reversal.json"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/app/js",
+			"/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/Research/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"value=",
+			"true",
+			"false",
+			"upload-arr",
+			"color",
+			"fontawesome",
+			"dropzone",
+			"highlightdroparea",
+			"fa-",
+			"fas",
+			"fa-arrow",
+			"fa-",
+			"fas-",
+			"'number')",
+			"==",
+			" ? \"\" : \" red\"",
+			" ? \" green\" : \"\"",
+			"this.state.form.internal_channels ? \" green\" : \"\"",
+			"this.state.form.internal_channels",
+			"similar_parts",
+			"Similar Parts",
+			"internal_channels",
+			".green",
+			"lg",
+			"handleFormChange",
+			"handleformclick",
+			"Change",
+			"number",
+			"onClick",
+			"button",
+			"value={",
+			"handleformchange:",
+			"handleformchange =",
+			"background",
+			"''",
+			"\"",
+			"button",
+			"items",
+			"readOnly",
+			"fa-check",
+			"decision-icon ",
+			".green",
+			"value=",
+			"onClick",
+			"input",
+			"button",
+			"span",
+			"internal_channels",
+			"span",
+			"name",
+			")\n",
+			"currentTarget",
+			".value",
+			"value=\"1\"",
+			"readOnly",
+			"readonly",
+			"handleformchange",
+			"target",
+			"handleformchange",
+			"handleformchange ",
+			"value",
+			"onChange",
+			"components",
+			"handleformchange",
+			"volume",
+			"box-shadow: inset 11px 0 5px -10px",
+			"box-shadow: inset 11px 0 5px -10px;",
+			"border-left: 0px solid;",
+			"info-appear",
+			"info-app",
+			"hi",
+			"progress-",
+			"pointer-events",
+			"#form .item",
+			"100vh",
+			", 2000",
+			"0 auto",
+			"setinfo",
+			"setin",
+			"clear",
+			"info-inner",
+			"infosection",
+			"onclick",
+			"customization",
+			"console.log",
+			"onchange",
+			"formElements",
+			"this.handleChange",
+			"{this.state.formElements.}",
+			"<input type=\"number\" onChange={this.handleChange} />",
+			"<input />",
+			"input",
+			"line-height",
+			"backdrop-fi",
+			"backdrop",
+			"padding",
+			"40px",
+			"span",
+			"border-rad",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1497,
+										1498
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1476,
+										1477
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/react/form.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8998,
+								8998
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2556,
+										2557
+									],
+									"2":
+									[
+										2556,
+										2557
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									],
+									"2":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1920,
+										1921
+									],
+									"2":
+									[
+										1920,
+										1921
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2650.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4810,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										386,
+										389
+									],
+									[
+										392,
+										395
+									],
+									[
+										610,
+										613
+									],
+									[
+										616,
+										619
+									],
+									[
+										1096,
+										1099
+									],
+									[
+										1102,
+										1105
+									],
+									[
+										1318,
+										1321
+									],
+									[
+										1324,
+										1327
+									],
+									[
+										1797,
+										1800
+									],
+									[
+										1803,
+										1806
+									],
+									[
+										2013,
+										2016
+									],
+									[
+										2019,
+										2022
+									],
+									[
+										2491,
+										2494
+									],
+									[
+										2497,
+										2500
+									],
+									[
+										2709,
+										2712
+									],
+									[
+										2715,
+										2718
+									],
+									[
+										3180,
+										3183
+									],
+									[
+										3186,
+										3189
+									],
+									[
+										3390,
+										3393
+									],
+									[
+										3396,
+										3399
+									],
+									[
+										3784,
+										3787
+									],
+									[
+										3790,
+										3793
+									],
+									[
+										3849,
+										3852
+									],
+									[
+										3855,
+										3858
+									],
+									[
+										4223,
+										4226
+									],
+									[
+										4481,
+										4484
+									],
+									[
+										4487,
+										4490
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"default_dir": "/Users/thomas/Library/Mobile Documents/com~apple~CloudDocs/School/Masters/app/js/react",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 410.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/extensions/MeshData.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3750,
+								3750
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4028,
+										4029
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3967,
+										3968
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3821,
+										3822
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3091,
+										3092
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2028.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/react/viewer.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4152,
+								4160
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										8592,
+										8593
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										8578,
+										8579
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4160,
+										4161
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4151,
+										4152
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 1.0,
+						"translation.y": 1887.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/react/main.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										506,
+										507
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										139,
+										140
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										178,
+										179
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										172,
+										173
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/style.custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								682,
+								682
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										685,
+										686
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										655,
+										656
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										685,
+										686
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										655,
+										656
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1603.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 121.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"shorten main",
+				"dvtl2-rest/services/shorten/__main__.py"
+			],
+			[
+				"shortenn ini",
+				"dvtl2-rest/services/shorten/__init__.py"
+			],
+			[
+				"odo struct",
+				"dvtl2-rest/services/odo/Structures.py"
+			],
+			[
+				"odo main",
+				"dvtl2-rest/services/odo/__main__.py"
+			],
+			[
+				"errors",
+				"dvtl2-api/dvtl2-lib/data/errors.json"
+			],
+			[
+				"main odo",
+				"dvtl2-rest/services/odo/__main__.py"
+			],
+			[
+				"odo init",
+				"dvtl2-rest/services/odo/__init__.py"
+			],
+			[
+				"itp json",
+				"dvtl2-api/dvtl2-lib/definitions/itp/itp.json"
+			],
+			[
+				"clinic json ",
+				"dvtl2-api/dvtl2-lib/definitions/itp/clinic.json"
+			],
+			[
+				"odo json",
+				"dvtl2-api/dvtl2-lib/definitions/odo/exam.json"
+			],
+			[
+				"clinic itp json",
+				"dvtl2-api/dvtl2-lib/definitions/itp/clinic.json"
+			],
+			[
+				"upgrade 2_19",
+				"dvtl2-rest/upgrade/v2_19/__init__.py"
+			],
+			[
+				"edi init",
+				"dvtl2-api/services/edi/__init__.py"
+			],
+			[
+				"xray init",
+				"dvtl2-rest/services/xray/__init__.py"
+			],
+			[
+				"cpp init",
+				"dvtl2-api/services/cpp/__init__.py"
+			],
+			[
+				"edi.py",
+				"dvtl2-api/crons/edi.py"
+			],
+			[
+				"edi struct",
+				"dvtl2-api/services/edi/Structure.py"
+			],
+			[
+				"edi structu",
+				"dvtl2-api/services/edi/Structure.py"
+			],
+			[
+				"invoice item",
+				"dvtl2-rest/dvtl2-lib/definitions/financials/invoice_item.json"
+			],
+			[
+				"json.py",
+				"dvtl2-rest/shared/JSON.py"
+			],
+			[
+				"invoice item ",
+				"dvtl2-rest/dvtl2-lib/definitions/financials/invoice_item.json"
+			],
+			[
+				"invoice item json",
+				"dvtl2-api/dvtl2-lib/definitions/financials/invoice_item.json"
+			],
+			[
+				"feeguides init",
+				"dvtl2-rest/services/feeGuides/__init__.py"
+			],
+			[
+				"invoice json",
+				"dvtl2-api/dvtl2-lib/definitions/financials/invoice.json"
+			],
+			[
+				"config.json",
+				"dvtl2-api/config.json"
+			],
+			[
+				"edi main",
+				"dvtl2-api/services/edi/__main__.py"
+			],
+			[
+				"edi.p",
+				"dvtl2-api/crons/edi.py"
+			],
+			[
+				"policy master",
+				"dvtl2-rest/dvtl2-lib/definitions/insurance/policy_master.json"
+			],
+			[
+				"insurance main",
+				"dvtl2-rest/services/insurance/__main__.py"
+			],
+			[
+				"insurance init",
+				"dvtl2-rest/services/insurance/__init__.py"
+			],
+			[
+				"cdanet.py",
+				"dvtl2-api/daemons/cdanet.py"
+			],
+			[
+				"CPP INIT",
+				"dvtl2-api/services/cpp/__init__.py"
+			],
+			[
+				"cdanet",
+				"dvtl2-api/services/edi/CDAnet.py"
+			],
+			[
+				"cdnet.py",
+				"dvtl2-api/services/edi/CDAnet.py"
+			],
+			[
+				"sync.py",
+				"dvtl2-rest/shared/Sync.py"
+			],
+			[
+				"financials init",
+				"dvtl2-rest/services/financials/__init__.py"
+			],
+			[
+				"edi py",
+				"dvtl2-api/crons/edi.py"
+			],
+			[
+				"crontab ",
+				"dvtl2-api/crons/crontab"
+			],
+			[
+				"apex",
+				"dvtl2-api/services/edi/Apex.py"
+			],
+			[
+				"edi structure.py",
+				"dvtl2-api/services/edi/Structure.py"
+			],
+			[
+				"insurance ",
+				"dvtl2-rest/services/insurance/__init__.py"
+			],
+			[
+				"claim _request",
+				"dvtl2-api/dvtl2-lib/definitions/edi/claim_request.json"
+			],
+			[
+				"payment.",
+				"dvtl2-rest/dvtl2-lib/definitions/financials/payment.json"
+			],
+			[
+				"datap",
+				"dvtl2-api/modules/DataPoint.py"
+			],
+			[
+				"claims json",
+				"dvtl2-api/dvtl2-lib/definitions/edi/claim_request.json"
+			],
+			[
+				"master",
+				"dvtl2-api/dvtl2-lib/definitions/insurance/policy_master.json"
+			],
+			[
+				"schedule main",
+				"dvtl2-api/services/schedule/__main__.py"
+			],
+			[
+				"mysql",
+				"dvtl2-api/modules/SQL_MySQL.py"
+			],
+			[
+				"appointment json",
+				"dvtl2-api/dvtl2-lib/definitions/schedule/appointment.json"
+			],
+			[
+				"schedule init",
+				"dvtl2-api/services/schedule/__init__.py"
+			],
+			[
+				"schedule",
+				"dvtl2-api/crons/schedule.py"
+			],
+			[
+				"patientlist init",
+				"dvtl2-api/services/patientList/__init__.py"
+			],
+			[
+				"crons/",
+				"dvtl2-api/crons/schedule.py"
+			],
+			[
+				"schedule py",
+				"dvtl2-api/crons/schedule.py"
+			],
+			[
+				"cron",
+				"dvtl2-api/crons/crontab"
+			],
+			[
+				"email init",
+				"dvtl2-api/services/email/__init__.py"
+			],
+			[
+				"sms init",
+				"dvtl2-rest/services/sms_chat/__init__.py"
+			],
+			[
+				"queue init",
+				"dvtl2-api/services/queue/__init__.py"
+			],
+			[
+				"queue",
+				"dvtl2-api/daemons/queueue.py"
+			],
+			[
+				"policy ma",
+				"dvtl2-api/dvtl2-lib/definitions/insurance/policy_master.json"
+			],
+			[
+				"policy_master",
+				"dvtl2-api/dvtl2-lib/definitions/insurance/policy_master.json"
+			],
+			[
+				"policymas",
+				"dvtl2-api/dvtl2-lib/definitions/insurance/policy_master.json"
+			],
+			[
+				"cover",
+				"dvtl2-api/dvtl2-lib/definitions/insurance/coverage_template.json"
+			],
+			[
+				"coverage json",
+				"dvtl2-api/dvtl2-lib/definitions/insurance/coverage_template.json"
+			],
+			[
+				"suds.py",
+				"dvtl2-api/modules/Suds.py"
+			],
+			[
+				"requir",
+				"dvtl2-api/requirements.txt"
+			],
+			[
+				"apex.",
+				"dvtl2-api/services/edi/Apex.py"
+			],
+			[
+				"crons/edi",
+				"dvtl2-api/crons/edi.py"
+			],
+			[
+				"eligibli",
+				"dvtl2-rest/dvtl2-lib/definitions/edi/eligibility.json"
+			],
+			[
+				"storage.p",
+				"dvtl2-rest/shared/Storage.py"
+			],
+			[
+				"sync.",
+				"dvtl2-rest/shared/Sync.py"
+			],
+			[
+				"api.py",
+				"dvtl2-api/modules/Api.py"
+			],
+			[
+				"daemons/cdanet",
+				"dvtl2-api/daemons/cdanet.py"
+			],
+			[
+				"cda dao",
+				"dvtl2-api/install/devops/etc/supervisor/conf.d/cdanet_daemon.conf"
+			],
+			[
+				"storage",
+				"dvtl2-rest/shared/Storage.py"
+			],
+			[
+				"crons/short",
+				"dvtl2-rest/crons/shorten.py"
+			],
+			[
+				"resizepy",
+				"dvtl2-api/modules/Resize.py"
+			],
+			[
+				"chat init",
+				"dvtl2-rest/services/chat/__init__.py"
+			],
+			[
+				"itp init",
+				"dvtl2-api/services/itp/__init__.py"
+			],
+			[
+				"error ",
+				"dvtl2-api/dvtl2-lib/data/errors.json"
+			],
+			[
+				"",
+				"dvtl2-rest/shared/Suds.py"
+			],
+			[
+				"counters init",
+				"dvtl2-api/services/counters/__init__.py"
+			],
+			[
+				"adaclaim",
+				"dvtl2-api/flaskservices/adaclaims/adaclaims.py"
+			],
+			[
+				"x12",
+				"dvtl2-api/modules/X12Writer.py"
+			],
+			[
+				"edi structur",
+				"dvtl2-api/services/edi/Structure.py"
+			],
+			[
+				"edi structures",
+				"dvtl2-rest/services/media/Structures.py"
+			],
+			[
+				"suds py",
+				"dvtl2-rest/shared/Suds.py"
+			],
+			[
+				"financials main",
+				"dvtl2-rest/services/financials/__main__.py"
+			],
+			[
+				"sms_chat init",
+				"dvtl2-rest/services/sms_chat/__init__.py"
+			],
+			[
+				"shared/format",
+				"dvtl2-rest/shared/FormatOC/__init__.py"
+			],
+			[
+				"sms_chat",
+				"dvtl2-rest/upgrade/v2_17/sms_chat.py"
+			],
+			[
+				"sms_chat py",
+				"dvtl2-rest/upgrade/v2_17/sms_chat.py"
+			],
+			[
+				"structures finaic",
+				"dvtl2-rest/services/financials/Structures.py"
+			],
+			[
+				"financials  init",
+				"dvtl2-rest/services/financials/__init__.py"
+			],
+			[
+				"upgrade 2_16",
+				"dvtl2-rest/upgrade/v2_16/__init__.py"
+			],
+			[
+				"discount.",
+				"dvtl2-api/dvtl2-lib/definitions/financials/discount.json"
+			],
+			[
+				"itp_base",
+				"dvtl2-api/dvtl2-lib/data/itp/itp_base_en.json"
+			],
+			[
+				"patient details",
+				"dvtl2-api/dvtl2-lib/definitions/cpp/patient_details.json"
+			],
+			[
+				"patient.json",
+				"dvtl2-api/dvtl2-lib/definitions/cpp/patient.json"
+			],
+			[
+				"config.",
+				"dvtl2-api/config.json"
+			],
+			[
+				"instll",
+				"dvtl2-rest/install/install.sh"
+			],
+			[
+				"patient ",
+				"dvtl2-api/dvtl2-lib/definitions/cpp/patient.json"
+			],
+			[
+				"auth_group",
+				"dvtl2-api/auth_group_cpp.py"
+			],
+			[
+				"suds",
+				"dvtl2-rest/shared/Suds.py"
+			],
+			[
+				"apex ",
+				"dvtl2-api/scripts/apex_eligibility_test.py"
+			],
+			[
+				"outstanding_transaction",
+				"dvtl2-api/dvtl2-lib/definitions/edi/outstanding_transactions.json"
+			],
+			[
+				"eligibility",
+				"dvtl2-api/dvtl2-lib/definitions/edi/eligibility.json"
+			],
+			[
+				"practitoiner_con",
+				"dvtl2-api/dvtl2-lib/definitions/edi/practitioner_conf.json"
+			],
+			[
+				"claim_rever",
+				"dvtl2-api/dvtl2-lib/definitions/edi/claim_reversal.json"
+			],
+			[
+				"claim_request",
+				"dvtl2-api/dvtl2-lib/definitions/edi/claim_request.json"
+			],
+			[
+				"predetermination",
+				"dvtl2-api/dvtl2-lib/definitions/edi/predetermination_request.json"
+			],
+			[
+				"predetermin",
+				"dvtl2-rest/dvtl2-lib/definitions/edi/predetermination_request.json"
+			],
+			[
+				"claim re",
+				"dvtl2-api/dvtl2-lib/definitions/edi/claim_request.json"
+			],
+			[
+				"cpp main",
+				"dvtl2-api/services/patientList/__main__.py"
+			],
+			[
+				"shared sync",
+				"dvtl2-rest/shared/Sync.py"
+			],
+			[
+				"json",
+				"dvtl2-rest/shared/JSON.py"
+			],
+			[
+				"edi structure ",
+				"dvtl2-api/services/edi/Structure.py"
+			],
+			[
+				"error",
+				"dvtl2-api/dvtl2-lib/data/errors.json"
+			],
+			[
+				"init edi",
+				"dvtl2-api/services/edi/__init__.py"
+			],
+			[
+				"exam init",
+				"dvtl2-api/services/exam/__init__.py"
+			],
+			[
+				"invoice_item",
+				"dvtl2-rest/dvtl2-lib/definitions/financials/invoice_item.json"
+			],
+			[
+				"xray mai ",
+				"dvtl2-rest/services/xray/__main__.py"
+			],
+			[
+				"base.json",
+				"dvtl2-api/dvtl2-lib/definitions/itp/base.json"
+			],
+			[
+				"invoice.json",
+				"dvtl2-rest/dvtl2-lib/definitions/financials/invoice.json"
+			],
+			[
+				"resize",
+				"dvtl2-rest/shared/Resize.py"
+			],
+			[
+				"photo.py",
+				"dvtl2-rest/shared/Photo.py"
+			],
+			[
+				"note init",
+				"dvtl2-api/services/notes/__init__.py"
+			],
+			[
+				"note json",
+				"dvtl2-api/dvtl2-lib/definitions/notes/note.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/dvtl2-rest/dvtl2-rest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
