@@ -183,7 +183,7 @@ class Viewer extends React.Component {
 
 	render() {
 		return (
-			<div class="viewer-container">
+			<div className="viewer-container">
                 <div id="Viewer" key={this.state.urn}>
                     <div className="viewer-inner">
                         <div className="viewer-content">
