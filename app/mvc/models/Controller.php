@@ -26,7 +26,7 @@ abstract class Controller
 	public function __construct()
 	{
 		// Create the instance of the API Driver with the given session
-		self::$oApiDriver = new _ApiDriver($oSession);
+		self::$oApiDriver = new _ApiDriver();
 
 	}
 
