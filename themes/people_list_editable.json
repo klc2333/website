@@ -30,27 +30,30 @@
 					"linkedin": "https://ca.linkedin.com/in/zhibo-luo-9051b69b/en"
 				},
 				{
+					"name": "Guoying Dong",
+					"description": "Simulation modeling of lattice structures fabricated by Additive Manufacturing",
+					"email": "guoying.dong@mail.mcgill.ca",
+					"linkedin": "https://ca.linkedin.com/in/guoying-dong-b10499120"
+				},
+				{
 					"name": "Jinghao Li",
 					"description": "Microstructure Evolution and Simulation of Ti6Al4V Alloy in Additive Manufacturing",
 					"email": "jinghao.li@mail.mcgill.ca"
-					"linkedin": "https://www.linkedin.com/in/jinghao-li-327485187/"
 				},
 				{
 					"name": "Xiaoyi Guan",
 					"description": "Thermalmechanical modeling of direct powder deposition additive manufacturing process",
-					"email": "xiaoyi.guan@mail.mcgill.ca"
+					"email": ""
 				},
 				{
 					"name": "Ying Zhang",
-					"description": "Machine learning assisted manufacturability analysis on the Laser powder Bed Fusion process",
-					"email": "ying.zhang8@mail.mcgill.ca"
-					"linkedin": "https://www.linkedin.com/in/ying-zhang-0761618a/"
+					"description": "",
+					"email": ""
 				},
 				{
 					"name": "Nikita Letov",
-					"description": "Bio-inspired geometric modelling approach for heterogeneous lattice structures",
-					"email": "nikita.letov@mail.mcgill.ca"
-					"linkedin": "https://www.linkedin.com/in/nikita-letov/"
+					"description": "",
+					"email": ""
 				}
 			]
 		},
@@ -61,7 +64,7 @@
 					"name": "Manuel Sage",
 					"description": "Application of machine learning in optimizing shop floor data collection and analysis",
 					"email": "manuel.sage@mail.mcgill.ca",
-					"linkedin": "https://www.linkedin.com/in/manuel-sage-146b83135/"
+					"linkedin": "https://www.linkedin.com/in/manuel-sage-146b83135/edit/birthday/"
 				},
 				{
 					"name": "Zhenyang Gao",
@@ -92,12 +95,6 @@
 					"description": "Topology and Functionality Optimization for Additive Manufacturing",
 					"email": "",
 					"linkedin": ""
-				},
-				{
-					"name": "Guoying Dong",
-					"description": "Simulation modeling of lattice structures fabricated by Additive Manufacturing",
-					"email": "",
-					"linkedin": "https://ca.linkedin.com/in/guoying-dong-b10499120"
 				},
 				{
 					"name": "Thomas Page",
