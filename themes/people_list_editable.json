@@ -17,43 +17,33 @@
 			"group_name": "Doctorate Students",
 			"members": [
 				{
-					"name": "Sheng Yang",
-					"type": "PhD Graduate",
-					"description": "Part consolidation for AM to study the feasibility of assembly reduction for lightweighting and economical purposes. Methods and Rules for Supporting Part Consolidation AM Design Potentials.",
-					"email": "sheng.yang@mail.mcgill.ca",
-					"linkedin": "https://www.linkedin.com/in/sheng-yang-30b906124/"
-				},
-				{
 					"name": "Zhibo Luo",
 					"description": "Development of a simulation tool to model the selective laser melting process in part level. A new and efficient simulation scheme is designed based on open source finite element library, which is able to adaptively refine and coarsen the mesh and solve the finite element equations with multiple processors in a parallel way.",
 					"email": "zhibo.luo@mail.mcgill.ca",
 					"linkedin": "https://ca.linkedin.com/in/zhibo-luo-9051b69b/en"
 				},
 				{
-					"name": "Guoying Dong",
-					"description": "Simulation modeling of lattice structures fabricated by Additive Manufacturing",
-					"email": "guoying.dong@mail.mcgill.ca",
-					"linkedin": "https://ca.linkedin.com/in/guoying-dong-b10499120"
-				},
-				{
 					"name": "Jinghao Li",
 					"description": "Microstructure Evolution and Simulation of Ti6Al4V Alloy in Additive Manufacturing",
-					"email": "jinghao.li@mail.mcgill.ca"
+					"email": "jinghao.li@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/jinghao-li-327485187/"
 				},
 				{
 					"name": "Xiaoyi Guan",
 					"description": "Thermalmechanical modeling of direct powder deposition additive manufacturing process",
-					"email": ""
+					"email": "xiaoyi.guan@mail.mcgill.ca"
 				},
 				{
 					"name": "Ying Zhang",
-					"description": "akjdaks",
-					"email": ""
+					"description": "Machine learning assisted manufacturabiliy analysis for laser-powder bed fusion process",
+					"email": "ying.zhang8@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/ying-zhang-0761618a/"
 				},
 				{
 					"name": "Nikita Letov",
-					"description": "",
-					"email": ""
+					"description": "Bio-inspired geometric modelling approach for heterogeneous lattice structures",
+					"email": "nikita.letov@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/nikita-letov/"
 				}
 			]
 		},
@@ -71,12 +61,6 @@
 					"description": "Design and simulation of conformal cooling channel for injection molding via additive manufacturing technique",
 					"email": "",
 					"linkedin": ""
-				},
-				{
-					"name": "Wenbo Min",
-					"description": "Life cycle assessment for the sustainability and environmental impact of additive manufacturing",
-					"email": "wenbo.min@mail.mcgill.ca",
-					"linkedin": "https://www.linkedin.com/in/wenbo-min-398255171/"
 				}
 			]
 		},
@@ -97,11 +81,31 @@
 					"linkedin": ""
 				},
 				{
+					"name": "Sheng Yang",
+					"type": "PhD Graduate",
+					"description": "Part consolidation for AM to study the feasibility of assembly reduction for lightweighting and economical purposes. Methods and Rules for Supporting Part Consolidation AM Design Potentials.",
+					"email": "sheng.yang@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/sheng-yang-30b906124/"
+				},
+				{
+					"name": "Guoying Dong",
+					"type": "PhD Graduate",
+					"description": "Simulation modeling of lattice structures fabricated by Additive Manufacturing",
+					"email": "guoying.dong@mail.mcgill.ca",
+					"linkedin": "https://ca.linkedin.com/in/guoying-dong-b10499120"
+				},
+				{
 					"name": "Thomas Page",
 					"type": "Master's Graduate",
 					"description": "Feature-based design for part consolidation enabled by additive manufacturing technology",
 					"email": "thomas.page@mail.mcgill.ca",
 					"linkedin": "https://www.linkedin.com/in/thomasdanielpage/"
+				},
+				{
+					"name": "Wenbo Min",
+					"description": "Life cycle assessment for the sustainability and environmental impact of additive manufacturing",
+					"email": "wenbo.min@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/wenbo-min-398255171/"
 				},
 				{
 					"name": "Maryam Tavafoghi",
@@ -177,13 +181,6 @@
 					"name": "Tanushree Talekar",
 					"type": "Master's Graduate",
 					"description": "Feature based modeling for the sustainability analysis of additively manufactured products",
-					"email": "",
-					"linkedin": ""
-				},
-				{
-					"name": "Viet Thi Nguyen",
-					"type": "Master's Graduate",
-					"description": "3D design and printing of vocal scaffold for cell culturing",
 					"email": "",
 					"linkedin": ""
 				},
