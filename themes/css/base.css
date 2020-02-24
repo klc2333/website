@@ -829,6 +829,10 @@ strong {
 	color: rgba(0,0,0,0.3);
 }
 
+#content .profile-currentPosition {
+	font-size: 0.8em;
+}
+
 #content .profile-contact-info {
 	position: absolute;
 	right: 10px;
