@@ -318,8 +318,15 @@ class Viewer extends React.Component {
         console.log('document load success', viewerDocument, test)
         console.log(viewerDocument.getRoot())
 
-        var defaultModel = viewerDocument.getRoot().getDefaultGeometry();
-        viewer.loadDocumentNode(viewerDocument, defaultModel, {}).then(async (model) => {
+        // var defaultModel = viewerDocument.getRoot().getDefaultGeometry();
+
+        var viewables = viewerDocument.getRoot().search({'type':'geometry'});
+        if (viewables.length === 0) {
+            console.error('Document contains no viewables.');
+            return;
+        }
+
+        viewer.loadDocumentNode(viewerDocument, viewables[0], {}).then(async (model) => {
           await this.afterViewerEvents(
             viewer,
             [
@@ -492,6 +499,7 @@ class Viewer extends React.Component {
 
     	this.setState({upload: true})
     }
+
 
     viewerDestroy(cb) {
 
