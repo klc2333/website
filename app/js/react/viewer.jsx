@@ -366,7 +366,6 @@ class Viewer extends React.Component {
                             type: format_type,
                             views: format_views,
                             advanced: {
-                                switchLoader: true,
                                 conversionMethod: 'modern'
                             }
                         }
