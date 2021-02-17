@@ -314,8 +314,8 @@ class Viewer extends React.Component {
         this.setState({cancelable: true})
     }
 
-    onDocumentLoadSuccess(viewerDocument) {
-        console.log('document load success')
+    onDocumentLoadSuccess(viewerDocument, test) {
+        console.log('document load success', viewerDocument, test)
         console.log(viewerDocument.getRoot())
 
         var defaultModel = viewerDocument.getRoot().getDefaultGeometry();
