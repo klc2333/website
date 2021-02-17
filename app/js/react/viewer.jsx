@@ -498,7 +498,7 @@ class Viewer extends React.Component {
         if (viewer) {
             viewer.finish();
             viewer = null;
-            Autodesk.Viewing.shutdown();
+            Autodesk.Viewing.shutdown && Autodesk.Viewing.shutdown();
         }
 
     }
