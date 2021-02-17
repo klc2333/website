@@ -1,5 +1,6 @@
 const infoSection = {
 
+	
     lightweighting: {
         description: ['The combination of AM and topology enables synthesis of creative design solutions with high strength-to-weight ratio'],
         benefits: ['Lightweight structure', 'Material saving', 'Added product value']
@@ -419,6 +420,7 @@ class Form extends React.Component {
 
         this.state.units = e.target.value
         this.setState(this.state)
+
     }
 
     reset() {
@@ -491,6 +493,8 @@ class Form extends React.Component {
                 Utils.hideOverlay()
             }
         });
+
+        this.setState(this.state)
 
     }
 

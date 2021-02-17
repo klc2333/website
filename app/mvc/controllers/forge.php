@@ -12,10 +12,10 @@ class forge_controller extends Controller {
 
     public function __construct(){
 
-        $this->api_key = 'eZ6ZrpoqA4lEKCml8NYubygmQYyPVhMN';
-        $this->api_secret = 'u4u6gIsOAaAwAVZc';
+        $this->api_key = 'W4y43jQ1FlfAYWcCGASIoLos1dOmY3XC';
+        $this->api_secret = 'ZtPcGfGpXzaeQ4oO';
 
-        $this->bucket_key = strtolower($this->api_key) . '_tutorial_bucket';
+        $this->bucket_key = strtolower($this->api_key) . '_adml_bucket_2';
 
     }
 
@@ -86,11 +86,14 @@ class forge_controller extends Controller {
 
 	public function bucket()
 	{
+
+		// $oForge = new api_Forge();
+		// $oForge->bucketCreate($this->bucket_key, $this->api_key);
+
 		try
 		{
-
 			$oForge = new api_Forge();
-			$oResult = $oForge->bucket('https://developer.api.autodesk.com/oss/v2/buckets/' . urlencode($this->bucket_key) . '/details');
+			$oResult = $oForge->bucket($this->bucket_key);
 
 			return $this->ajaxResponse($oResult);
 		}

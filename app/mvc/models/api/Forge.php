@@ -19,10 +19,35 @@ class api_forge extends API {
 
 	}
 
-	public function bucket($sURL = '')
+
+	public function bucket($sBucketKey = '')
 	{
 
+		$sURL = 'https://developer.api.autodesk.com/oss/v2/buckets/' . urlencode($sBucketKey) . '/details';
+
 		$oResult = self::$oApiDriver->request($sURL, 'GET', null, null, $_COOKIE['forge_token']);
+
+		return $oResult;
+
+	}
+
+	public function bucketCreate($sBucketKey = '', $authId = '')
+	{
+		$sURL = 'https://developer.api.autodesk.com/oss/v2/buckets';
+
+		$data = array(
+			'bucketKey' => $sBucketKey,
+			'authId' => $authId,
+			'access' => 'full',
+			'policyKey' => 'temporary'
+
+		);
+
+		$headers = array(
+			'x-ads-region' => 'US'
+		);
+
+		$oResult = self::$oApiDriver->request($sURL, 'POST', json_encode($data), $headers, $_COOKIE['forge_token']);
 
 		return $oResult;
 

@@ -106,8 +106,8 @@ var ADML = {
 	+						'<div class="profile-text">'
 	+							'<div class="profile-title">'
 	+								'<div class="profile-name">' + ((member['name'] && member['name'] != "") ? member['name'] : "") + '</div>'
-	+								'<div class="profile-type">' + ((member['type'] && member['type'] != "") ? member['type'] : "") + '</div>'
 	+								'<div class="profile-currentPosition">' + ((member['currentPosition'] && member['currentPosition'] != "") ? member['currentPosition'] : "") + '</div>'
+	+								((member['website'] && member['website'] != "") ? ('<div class="profile-webpage"><a href="' + member['website'] + '">Personal Page Link</a></div>') : "")
 	+							'</div>'
 	+							'<div class="profile-description">' + ((member['description'] && member['description'] != "") ? member['description'] : "") + '</div>'
 	+						'</div>'

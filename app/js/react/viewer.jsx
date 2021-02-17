@@ -39,7 +39,7 @@ function signedVolumeOfTriangle(p1, p2, p3) {
   return p1.dot(p2.cross(p3)) / 6.0;
 }
 
-var viewerApp;
+var viewer;
 var options = {
     env: 'AutodeskProduction',
     api: 'derivativeV2', // TODO: for models uploaded to EMEA change this option to 'derivativeV2_EU'
@@ -268,22 +268,63 @@ class Viewer extends React.Component {
 
     }
 
-    documentLoadFailure(viewerErrorCode) {
+
+    afterViewerEvents(viewer, events) {
+        let promises = [];
+        events.forEach((event) => {
+            promises.push(new Promise((resolve, reject) => {
+
+                viewer.loadExtension('Autodesk.ADN.Viewing.Extension.MeshData').then(
+
+                (MeshData) => {
+
+                    console.log(MeshData)
+
+                    var properties = MeshData.getProperties()
+
+                    this.props.updateForm({
+                        units: 'mm',
+                        elements: properties
+                    })
+
+                    console.log(properties)
+
+                }, (err) => {
+
+                console.log('Error loading extension: ')
+                console.log(err)
+            })
+
+            viewer.navigation.setZoomTowardsPivot(true)
+
+
+            }));
+        });
+
+        return Promise.all(promises)
+    }
+
+    onDocumentLoadFailure(viewerErrorCode) {
         console.error('onDocumentLoadFailure - error' + viewerErrorCode);
         $('#Viewer').html('<div class="viewer-inner"><div class="viewer-content"><p>' + 'onDocumentLoadFailure - error' + viewerErrorCode + '</p><a href="mailto:thomas.page@mail.mcgill.ca?subject=Site Feedback -- AM Candidate Detection">Submit feedback</a></div></div>');
         this.setState({cancelable: true})
     }
 
-    documentLoadSuccess(document) {
+    onDocumentLoadSuccess(viewerDocument) {
         console.log('document load success')
+        console.log(viewerDocument.getRoot())
 
-        var viewables = viewerApp.bubble.search({'type':'geometry'});
-        if (viewables.length === 0) {
-            console.error('Document contains no viewables.');
-            return;
-        }
+        var defaultModel = viewerDocument.getRoot().getDefaultGeometry();
+        viewer.loadDocumentNode(viewerDocument, defaultModel, {}).then(async (model) => {
+          await this.afterViewerEvents(
+            viewer,
+            [
+              Autodesk.Viewing.GEOMETRY_LOADED_EVENT
+            ]
+          );
+        });;
 
-        viewerApp.selectItem(viewables[0], this.modelLoadSuccess.bind(this), this.modelLoadFailure.bind(this))
+
         this.replaceSpinner();
 
     }
@@ -379,7 +420,6 @@ class Viewer extends React.Component {
         })
 
         // Congratulations! The viewer is now ready to be used.
-        console.log('Viewers are equal: ' + (viewer === viewerApp.getCurrentViewer()));
 
     }
 
@@ -448,43 +488,9 @@ class Viewer extends React.Component {
 
     viewerDestroy(cb) {
 
-        if (viewerApp) {
-
-            var viewer = viewerApp.getCurrentViewer()
-
-            if (viewer) {
-                var gl = viewer.canvas.getContext('webgl')
-            }
-
-            viewerApp.finish()
-            viewerApp = null
-
-            if (viewer) {
-                var numTextureUnits = gl.getParameter(gl.MAX_TEXTURE_IMAGE_UNITS);
-                for (var unit = 0; unit < numTextureUnits; ++unit) {
-                  gl.activeTexture(gl.TEXTURE0 + unit);
-                  gl.bindTexture(gl.TEXTURE_2D, null);
-                  gl.bindTexture(gl.TEXTURE_CUBE_MAP, null);
-                }
-                gl.bindBuffer(gl.ARRAY_BUFFER, null);
-                gl.bindBuffer(gl.ELEMENT_ARRAY_BUFFER, null);
-                gl.bindRenderbuffer(gl.RENDERBUFFER, null);
-                gl.bindFramebuffer(gl.FRAMEBUFFER, null);
-
-                var buf = gl.createBuffer();
-                gl.bindBuffer(gl.ARRAY_BUFFER, buf);
-                var numAttributes = gl.getParameter(gl.MAX_VERTEX_ATTRIBS);
-                for (var attrib = 0; attrib < numAttributes; ++attrib) {
-                  gl.vertexAttribPointer(attrib, 1, gl.FLOAT, false, 0, 0);
-                }
-
-                gl.canvas.width = 1;
-                gl.canvas.height = 1;
-
-                gl.getExtension('WEBGL_lose_context').loseContext();
-            }
-
-        }
+        viewer.finish();
+        viewer = null;
+        Autodesk.Viewing.shutdown();
     }
 
     viewerReady() {
@@ -498,11 +504,28 @@ class Viewer extends React.Component {
 
         console.log(documentId)
 
+
         // Run this when the page is loaded
         Autodesk.Viewing.Initializer(options, () => {
-            viewerApp = new Autodesk.Viewing.ViewingApplication("Viewer");
-            viewerApp.registerViewer(viewerApp.k3D, Autodesk.Viewing.Viewer3D);
-            viewerApp.loadDocument(documentId, this.documentLoadSuccess.bind(this), this.documentLoadFailure.bind(this));
+
+            var config3d = {
+                memory: {
+                    limit:  1000 // in MB
+                }
+            };
+
+            var htmlDiv = document.getElementById('Viewer');
+            viewer = new Autodesk.Viewing.Viewer3D(htmlDiv, config3d);
+            var startedCode = viewer.start();
+            if (startedCode > 0) {
+                console.error('Failed to create a Viewer: WebGL not supported.');
+                return;
+            }
+
+            console.log('Initialization complete, loading a model next...');
+
+
+            Autodesk.Viewing.Document.load(documentId, this.onDocumentLoadSuccess, this.onDocumentLoadFailure);
         });
 
     }

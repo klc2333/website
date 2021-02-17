@@ -5,8 +5,8 @@
 			"group_name": "Director",
 			"members": [
 				{
-					"name": "Yaoyao Fiona Zhao",
-					"type": "Associate Professor, Associate Editor of the Journal of Mechanical Engineering",
+					"name": "Dr.Yaoyao Fiona Zhao",
+					"currentPosition": "Associate Professor and William Dawson Scholar",
 					"description": "Digitization changes traditional thinking and manufacturing technologies. Manufacturing in the 21st century will become more intelligent, flexible, automated, and sustainable. I seek to advance manufacturing industry with new design theories, manufacturing information technologies, and simulation and optimization infrastructures to reach smarter and more sustainable manufacturing.",
 					"email": "yaoyao.zhao@mcgill.ca",
 					"linkedin": "https://www.linkedin.com/in/fiona-zhao-4541a912/"
@@ -16,12 +16,6 @@
 		{
 			"group_name": "Doctorate Students",
 			"members": [
-				{
-					"name": "Zhibo Luo",
-					"description": "Development of a simulation tool to model the selective laser melting process in part level. A new and efficient simulation scheme is designed based on open source finite element library, which is able to adaptively refine and coarsen the mesh and solve the finite element equations with multiple processors in a parallel way.",
-					"email": "zhibo.luo@mail.mcgill.ca",
-					"linkedin": "https://ca.linkedin.com/in/zhibo-luo-9051b69b/en"
-				},
 				{
 					"name": "Jinghao Li",
 					"description": "Microstructure Evolution and Simulation of Ti6Al4V Alloy in Additive Manufacturing",
@@ -44,6 +38,24 @@
 					"description": "Bio-inspired geometric modelling approach for heterogeneous lattice structures",
 					"email": "nikita.letov@mail.mcgill.ca",
 					"linkedin": "https://www.linkedin.com/in/nikita-letov/"
+				},
+				{
+					"name": "Mutahar Safdar",
+					"description": "Investigation of the digital DNA of a gas turbine engine for the prediction of vibration anomaly",
+					"email": "",
+					"linkedin": "http://www.linkedin.com/in/mutahar-safdar"
+				},
+				{
+					"name": "Pavan Tejaswi Velivela",
+					"description": "Data Science/ML assisted Biologically Inspired Industrial Design & Engineering",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/pavantejaswivelivela/"
+				},
+				{
+					"name": "Manuel Sage",
+					"description": "Developing an intelligent tool to suggest and assess power plant configurations",
+					"email": "manuel.sage@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/manuel-sage-146b83135/edit/birthday/"
 				}
 			]
 		},
@@ -51,22 +63,40 @@
 			"group_name": "Masters Students",
 			"members": [
 				{
-					"name": "Manuel Sage",
-					"description": "Application of machine learning in optimizing shop floor data collection and analysis",
-					"email": "manuel.sage@mail.mcgill.ca",
-					"linkedin": "https://www.linkedin.com/in/manuel-sage-146b83135/edit/birthday/"
-				},
-				{
-					"name": "Zhenyang Gao",
-					"description": "Design and simulation of conformal cooling channel for injection molding via additive manufacturing technique",
-					"email": "",
-					"linkedin": ""
-				},
-				{
 					"name": "Negin Moslemi",
-					"description": "",
+					"description": "Optimizing a CLSC (Closed loop supply chain) to be both resilient and environmentally sustainable",
 					"email": "negin.moslemi@mail.mcgill.ca",
 					"linkedin": ""
+				},
+				{
+					"name": "Jiarui Xie",
+					"description": "Smart Manufacturing: data analysis and predictive analysis using Machine Learning technologies in the assembly line",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/jiarui-rex-xie-6560a6156/"
+				},
+				{
+					"name": "Shivangi Sarabhai",
+					"description": "Study, produce and measure cellular structures (Lattice design optimization for Lightweight Structures) related to their flow behavior.",
+					"email": "shivangi.sarabhai@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/shivangi-sarabhai-078b4b6b/"
+				},
+				{
+					"name": "Chonghui Zhang",
+					"description": "generative design and additive manufacturing (to be determined)",
+					"email": "",
+					"linkedin": "www.linkedin.com/in/chonghui-zhang-a222171a4"
+				},
+				{
+					"name": "Siyuan Sun",
+					"description": "Design method to bridge the descriptive knowledge with prescriptive design parameters potentially through natural language processing or machine learning techniques.",
+					"email": "",
+					"linkedin": "www.linkedin.com/in/siyuansunssy"
+				},
+				{
+					"name": "Prabin Paneru",
+					"description": "",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/prabin-paneru-672b9b136/"
 				}
 			]
 		},
@@ -77,83 +107,186 @@
 			]
 		},
 		{
-			"group_name": "Alumni",
+			"group_name": "Alumni - Doctorates",
 			"members": [
 				{
-					"name": "Yunlong Tang",
-					"type": "PhD Graduate",
-					"currentPosition": "Current Position: Lecturer at Monash University", 
-					"description": "Topology and Functionality Optimization for Additive Manufacturing",
-					"email": "",
-					"linkedin": ""
+					"name": "Dr.Zhibo Luo",
+					"currentPosition": "Current Position: Site Reliability Engineer (SRD) at Ericsson",
+					"description": "Nonlinear finite element modeling of transient thermo- mechanical behavior in selective laster melting",
+					"email": "zhibo.luo@mail.mcgill.ca",
+					"linkedin": "https://ca.linkedin.com/in/zhibo-luo-9051b69b/en"
 				},
 				{
-					"name": "Sheng Yang",
-					"type": "PhD Graduate",
-					"currentPosition": "Current Position: Postdoc fellow at McGill University",
-					"description": "Part consolidation for AM to study the feasibility of assembly reduction for lightweighting and economical purposes.",
+					"name": "Dr.Sheng Yang",
+					"currentPosition": "Current Position: Assistant Professor at University of Guelph",
+					"description": "Thesis Title: Part consolidation for AM to study the feasibility of assembly reduction for lightweighting and economical purposes.",
 					"email": "sheng.yang@mail.mcgill.ca",
 					"linkedin": "https://www.linkedin.com/in/sheng-yang-30b906124/"
 				},
 				{
-					"name": "Guoying Dong",
-					"type": "PhD Graduate",
+					"name": "Dr.Guoying Dong",
 					"currentPosition": "Current Position: Research Fellow at Singapore University of Technology and Design (SUTD)",
-					"description": "Simulation modeling of lattice structures fabricated by Additive Manufacturing",
+					"description": "Thesis Title: Simulation modeling of lattice structures fabricated by Additive Manufacturing",
 					"email": "guoying.dong@mail.mcgill.ca",
 					"linkedin": "https://ca.linkedin.com/in/guoying-dong-b10499120"
 				},
 				{
+					"name": "Dr.Yunlong Tang",
+					"currentPosition": "Current Position: Lecturer at Monash University", 
+					"website": "https://www.monash.edu/engineering/yunlongtang",
+					"description": "Thesis Title: Topology and Functionality Optimization for Additive Manufacturing",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/yunlong-tang-83499583/"
+				},
+				{
+					"name": "Yuan Liu",
+					"currentPosition": "Current Position:",
+					"description": "Exchange Student at ADML; Thesis Title: Modeling and Optimization Methods for Multi-Scale Heterogeneous Lattice Structures",
+					"email": "",
+					"linkedin": ""
+				},
+				{
+					"name": "Dr.Dawei Li",
+					"currentPosition": "Current Position: Assistant Professor at Nanjing University of Science and Technology",
+					"description": "Exchange Student at ADML; Thesis Title: Bionic Micro-Structure Geometric Modeling and Computational Fabrication",
+					"email": "davidlee@nuaa.edu.cn",
+					"linkedin": ""
+				},
+				{
+					"name": "Dr.Maryam Tavafoghi",
+					"currentPosition": "Current Position: Postdoctoral Fellow at UCLA",
+					"description": "Thesis Title: Bio-compatible ceramic characterization for 3D printing",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/maryam-tavafoghi-phd-b9990671/"
+				}
+
+			]
+		},
+		{
+			"group_name": "Alumni - Masters",
+			"members": [
+				{
+					"name": "Zhenyang Gao",
+					"currentPosition": "Current Position: Software Engineer at Huawei",
+					"description": "Thesis Title: Design and simulation of conformal cooling channel for injection molding via additive manufacturing technique",
+					"email": "",
+					"linkedin": ""
+				},
+				{
 					"name": "Thomas Page",
-					"type": "Master's Graduate",
 					"currentPosition": "Current Position: Product Manager at Dovetail",
-					"description": "Feature-based design for part consolidation enabled by additive manufacturing technology",
+					"description": "Thesis Title: Feature-based design for part consolidation enabled by additive manufacturing technology",
 					"email": "thomas.page@mail.mcgill.ca",
 					"linkedin": "https://www.linkedin.com/in/thomasdanielpage/"
 				},
 				{
 					"name": "Wenbo Min",
-					"type": "Master's Graduate",
 					"currentPosition": "Current Position: Mechanical Engineer at APG-Neuros",
-					"description": "Life cycle assessment for the sustainability and environmental impact of additive manufacturing",
+					"description": "Thesis Title: Life cycle assessment for the sustainability and environmental impact of additive manufacturing",
 					"email": "wenbo.min@mail.mcgill.ca",
 					"linkedin": "https://www.linkedin.com/in/wenbo-min-398255171/"
 				},
 				{
+					"name": "Usama Waheed",
+					"currentPosition": "Current Position: Student Researcher at Martinrea International",
+					"description": "Thesis Title: Reduction of Defects in Robotic MIG Welding by Repositioning the Robot Weld Path Using a Laser Vision System",
+					"email": "usama.waheed@mail.mcgill.ca",
+					"linkedin": "https://www.linkedin.com/in/musamawaheed/"
+				},
+				{
 					"name": "Raine Yuhaowei Zhou",
-					"type": "Master's Graduate",
 					"currentPosition": "Current Position: Product manager at BOMBARDIER",
-					"description": "Product lifecycle and traceability modeling of binder-jetting additive manufacturing process",
+					"description": "Thesis Title: Product lifecycle and traceability modeling of binder-jetting additive manufacturing process",
 					"email": "",
 					"linkedin": "https://www.linkedin.com/in/yuhaoweizhou/"
 				},
 				{
 					"name": "Han Chen",
-					"type": "Master's Graduate",
 					"currentPosition": "Current Position: Software Engineer at Facebook",
-					"description": "Modeling and characterization of additive manufacturing processes",
+					"description": "Thesis Title: Modeling and characterization of additive manufacturing processes",
 					"email": "",
 					"linkedin": "https://www.linkedin.com/in/han-chen-aa113771/"
 				},
 				{
 					"name": "Thomas Hitchcox",
-					"type": "Master's Graduate",
 					"currentPosition": "Current Position: PhD student at McGill University",
-					"description": "Vision based inspection process optimization to detect aerospace component defects",
+					"description": "Thesis Title: Vision based inspection process optimization to detect aerospace component defects",
 					"email": "",
 					"linkedin": "https://www.linkedin.com/in/thomas-hitchcox-7934b863/"
 				},
+				
 				{
 					"name": "Julien Finley",
-					"type": "Master's Graduate",
 					"currentPosition": "Current Position: Principal structural stress analyst at Pratt & Whitney Canada",
-					"description": "post processing technique for Ti64 lattice fabricated via SLM process",
+					"description": "Thesis Title: post processing technique for Ti64 lattice fabricated via SLM process",
 					"email": "",
 					"linkedin": "https://www.linkedin.com/in/julien-finley-00b61465/"
 				},
+				
+				{
+					"name": "Fan Yang",
+					"currentPosition": "Current Position: Vehicle Architect at BOMBARDIER Transport",
+					"description": "Thesis Title: Design allowance for binder-jetting additive manufacturing process",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/fan-yang-stefan/"
+				},
+				{
+					"name": "Mohamed Aslam",
+					"currentPosition": "Current Position: Customer Service Manager at Cummins Inc.",
+					"description": "Thesis Title: Environmental impact on the design optimization for AM",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/aslamsm/"
+				},
+				{
+					"name": "Tanushree Talekar",
+					"currentPosition": "Current Position: Reliability and Production Engineer at Morgan Stanley",
+					"description": "Thesis Title: Feature based modeling for the sustainability analysis of additively manufactured products",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/tanushree-talekar-a9b979116/"
+				},
+				{
+					"name": "Yujia Wang",
+					"currentPosition": "Current Position: Junior Mechanical Engineer at LumenWerx",
+					"description": "Thesis Title: Investigation of printing orientation on product mechanical properties via binder-jetting additive manufacturing process",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/yujia-helen-wang-a1bb26144/"
+				},
+				
+				{
+					"name": "Gagandeep Singh",
+					"currentPosition": "Current Position: Lean Program Manager at amhil north america",
+					"description": "Thesis Title: Modeling & Simulation of Aerospace Product Development",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/gsminhas/"
+				},
+				{
+					"name": "Mohammed Taleb Ameri",
+					"currentPosition": "Current Position: Application Evaluation Specialist at Drill Bits & Services",
+					"description": "Thesis Title: Sustainability assessment of milling manufacturing process",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/taleb-ameri-eit-meng-412a5858/"
+				},
+				{
+					"name": "Jordan Cave",
+					"currentPosition": "Current Position: Design Engineer at Cougar Drilling Solutions",
+					"description": "Thesis Title: Process planning and optimization of wire deposition additive manufacturing process",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/jordan-cave-13ba4876/"
+				},
+				{
+					"name": "Xin Xu",
+					"description": "Thesis Title: Process Modeling and Sustainability Analysis of Binder-jetting Additive Manufacturing Processes",
+					"email": "",
+					"linkedin": ""
+				}
+
+			]
+		},
+		{
+			"group_name": "Alumni - Bachelors",
+			"members": [
 				{
 					"name": "Patrick El Choueifaty",
-					"type": "Honours Graduate",
 					"currentPosition": "Current Position: Senior Financial Analyst at Procter & Gamble",
 					"description": "Sustainable End-of-Life Management of Consumer Goods",
 					"email": "",
@@ -161,99 +294,41 @@
 				},
 				{
 					"name": "Sheelaz Merza",
-					"type": "Honours Graduate",
 					"currentPosition": "Current Position: Environment & Sustainability Consultant at Arcadis",
 					"description": "Experimentation and characterization of lattice structure for bone tissue growth",
 					"email": "",
 					"linkedin": "https://www.linkedin.com/in/sheelaz-merza-7a671570/detail/photo/"
 				},
 				{
-					"name": "Maryam Tavafoghi",
-					"type": "Post-doctorate",
-					"currentPosition": "Current Position: Postdoctoral Fellow at UCLA",
-					"description": "Bio-compatible ceramic characterization for 3D printing",
-					"email": "",
-					"linkedin": "https://www.linkedin.com/in/maryam-tavafoghi-phd-b9990671/"
-				},
-				{
-					"name": "Xin Xu",
-					"type": "Master's Graduate",
-					"description": "Process Modeling and Sustainability Analysis of Binder-jetting Additive Manufacturing Processes",
-					"email": "",
-					"linkedin": ""
-				},
-				{
 					"name": "Aidan Kurtz",
-					"type": "Bachelor's Graduate",
 					"currentPosition": "Current Position: Sr. Computational Engineer at Carbon",
 					"description": "Residue stress analysis of powder deposition process",
 					"email": "",
 					"linkedin": "https://ca.linkedin.com/pub/aidan-kurtz/99/57/4a6"
 				},
-				{
-					"name": "Jordan Cave",
-					"type": "Master's Graduate",
-					"currentPosition": "",
-					"description": "Process planning and optimization of wire deposition additive manufacturing process",
-					"email": "",
-					"linkedin": ""
-				},
-				{
-					"name": "Fan Yang",
-					"type": "Master's Graduate",
-					"currentPosition": "Current Position: Vehicle Architect at BOMBARDIER Transport",
-					"description": "Design allowance for binder-jetting additive manufacturing process",
-					"email": "",
-					"linkedin": "https://www.linkedin.com/in/fan-yang-stefan/"
-				},
-				{
-					"name": "Mohamed Aslam",
-					"type": "Master's Graduate",
-					"currentPosition": "",
-					"description": "Environmental impact on the design optimization for AM",
-					"email": "",
-					"linkedin": ""
-				},
-				{
-					"name": "Tanushree Talekar",
-					"type": "Master's Graduate",
-					"currentPosition": "",
-					"description": "Feature based modeling for the sustainability analysis of additively manufactured products",
-					"email": "",
-					"linkedin": ""
-				},
-				{
-					"name": "Yujia Wang",
-					"type": "Master's Graduate",
-					"currentPosition": "",
-					"description": "Investigation of printing orientation on product mechanical properties via binder-jetting additive manufacturing process",
-					"email": "",
-					"linkedin": ""
-				},
-				{
-					"name": "Gagandeep Singh",
-					"type": "Master's Graduate",
-					"currentPosition": "",
-					"description": "Modeling & Simulation of Aerospace Product Development",
-					"email": "",
-					"linkedin": ""
-				},
-				{
-					"name": "Mohammed Taleb Ameri",
-					"type": "Master's Graduate",
-					"currentPosition": "",
-					"description": "Sustainability assessment of milling manufacturing process",
-					"email": "",
-					"linkedin": ""
-				},
+				
 				{
 					"name": "Kieran Mak",
-					"type": "Honours Graduate",
-					"currentPosition": "",
+					"currentPosition": "Current Position: Design Engineer at Carbon",
 					"description": "Topology Optimization for Additively Manufactured Products",
 					"email": "",
-					"linkedin": ""
+					"linkedin": "https://www.linkedin.com/in/kieranmak/"
+				},
+				{
+					"name": "Grace Wijaya",
+					"currentPosition": "Current Position: MIT AeroAstro Grad Student",
+					"description": "Contributed to a journal publication: Optimizing Process Parameters of Fused Deposition Modeling by Taguchi Method for the Fabrication of Lattice Structures",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/grace-wijaya-818106b8/"
+				},
+				{
+					"name": "Qinxue Christine Zhou",
+					"currentPosition": "Current Position: Incoming Consultant at Deloitte Canada",
+					"description": "Performed FEA with Abaqus to evaluate the influence of the fibre orientation on the warpage behaviour of continuous long fibre PEEK composites",
+					"email": "",
+					"linkedin": "https://www.linkedin.com/in/qinxue-christine-zhou/"
 				}
+				
 
 			]
 		}

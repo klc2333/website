@@ -63,7 +63,19 @@ strong {
 	-webkit-animation: spinner 1.2s infinite linear;
 	animation: spinner 1.2s infinite linear;
 }
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
 
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
 @-webkit-keyframes spinner {
 	0% {
 		-webkit-transform: rotate(0deg);
@@ -163,7 +175,7 @@ strong {
 		min-width: 100% !important;
 		margin: 15px 0 !important;
 	}
-
+	
 	#content #publications .publication-title {
 		color: rgb(25, 164, 232);
 	}
@@ -824,9 +836,11 @@ strong {
 	margin-right: 10px;
 }
 
-#content .profile-type {
+#content .profile-webpage {
 	font-size: 0.8em;
 	color: rgba(0,0,0,0.3);
+	display: inline-block;
+
 }
 
 #content .profile-currentPosition {
@@ -1005,7 +1019,26 @@ strong {
 	border-radius: var(--radius);
 	margin-bottom: 20px;
 }
-
+#content .whitepaper {
+	text-align: center;
+	padding: 10px;
+	cursor: pointer;
+	background: white;
+	margin: 0 20px;
+	font-weight: bold;
+	color:black;
+	border-radius: var(--radius);
+}
+#content .whitepaper-description {
+	text-align: center;
+	padding: 10px;
+	cursor: pointer;
+	background: white;
+	margin: 0 20px;
+	color:black;
+	border-radius: var(--radius);
+	margin-bottom: 20px;
+}
 
 #content .rotating-carousel img {
 
