@@ -528,7 +528,7 @@ class Viewer extends React.Component {
 
             var config3d = {
                 memory: {
-                    limit:  1000 // in MB
+                    limit:  3000 // in MB
                 }
             };
 
