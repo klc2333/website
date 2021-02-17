@@ -495,9 +495,13 @@ class Viewer extends React.Component {
 
     viewerDestroy(cb) {
 
-        viewer.finish();
-        viewer = null;
+        if (viewer) {
+            viewer.finish();
+            viewer = null;
+        }
+
         Autodesk.Viewing.shutdown();
+
     }
 
     viewerReady() {
