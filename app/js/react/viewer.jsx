@@ -56,10 +56,6 @@ class FileUploader extends React.Component {
 
         this.handleDropUpload = this.handleDropUpload.bind(this)
         this.uploadHandler = this.uploadHandler.bind(this)
-        this.onDocumentLoadSuccess = this.onDocumentLoadSuccess.bind(this)
-        this.onDocumentLoadFailure = this.onDocumentLoadFailure.bind(this)
-        this.replaceSpinner = this.replaceSpinner.bind(this)
-        this.afterViewerEvents = this.afterViewerEvents.bind(this)
 
     }
 
@@ -179,6 +175,10 @@ class Viewer extends React.Component {
 		}
 
         this.bucketUpload = this.bucketUpload.bind(this)
+        this.onDocumentLoadSuccess = this.onDocumentLoadSuccess.bind(this)
+        this.onDocumentLoadFailure = this.onDocumentLoadFailure.bind(this)
+        this.replaceSpinner = this.replaceSpinner.bind(this)
+        this.afterViewerEvents = this.afterViewerEvents.bind(this)
 	}
 
 	componentDidMount() {
